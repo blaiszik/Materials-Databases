@@ -1,11 +1,11 @@
 # Materials-Related Databases
 
 
-| Database | Quantities Contained | Contact | API Documentation | 
+| Database | Quantities Contained | Contact | API/Docs | 
 | ------------- | ------------- |-----------|------| 
 | [The Materials Project](https://www.materialsproject.org)  | test | Kristin Persson, Gerbrand Ceder | [python](https://www.materialsproject.org/docs/api)  |
 | [Open Quantum Materials Database (OQMD)](http://oqmd.org)  | test | Chris Wolverton | [python (qmpy)](http://oqmd.org/static/docs/index.html)  |
-| [Automatic Flow for Materials Discovery (AFLOW)](http://materials.duke.edu/awrapper.html) |   | Stafano Curtarolo     |None |
+| [Automatic Flow for Materials Discovery (AFLOW)](http://www.aflowlib.org) |   | Stafano Curtarolo     | [REST](http://aflowlib.duke.edu/aflowwiki/doku.php?id=documentation:start)  |
 
 #Relevant Codes
 | Database | Quantities Contained | Contact | API Documentation | 
