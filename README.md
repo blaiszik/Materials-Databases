@@ -1,5 +1,8 @@
-# Materials-Related Databases
+*Please feel free to edit these tables, change headings as necessary, group databases and codes into relevant sub-groups, and add to them. 
+*For now,  hold off on linking to this page externally, as I will be moving it to be within the Globus github if we see usefulness emerging. 
+*This page is written using Github markdown, learn [Github Markdown Basics](https://help.github.com/articles/markdown-basics/) here
 
+# Materials-Related Databases
 
 | Database | Description | Contact | API/Docs | 
 | ------------- | ------------- |-----------|------| 
