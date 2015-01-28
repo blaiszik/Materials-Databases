@@ -4,7 +4,7 @@
 | Database | Quantities Contained | Contact | API Documentation | 
 | ------------- | ------------- |-----------|------| 
 | [The Materials Project](https://www.materialsproject.org)  | test | Kristin Persson, Gerbrand Ceder | [python](https://www.materialsproject.org/docs/api)  |
-| [Open Quantum Materials Database (OQMD)](http://oqmd.org)  | test | Chris Wolverton | [python](http://oqmd.org/static/docs/index.html)  |
+| [Open Quantum Materials Database (OQMD)](http://oqmd.org)  | test | Chris Wolverton | [python (qmpy)](http://oqmd.org/static/docs/index.html)  |
 | [Automatic Flow for Materials Discovery (AFLOW)](http://materials.duke.edu/awrapper.html) |   | Stafano Curtarolo     |None |
 
 #Relevant Codes
