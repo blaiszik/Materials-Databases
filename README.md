@@ -1,7 +1,7 @@
 # Materials-Related Databases
 
 
-| Database | Quantities Contained | Contact | API/Docs | 
+| Database | Description | Contact | API/Docs | 
 | ------------- | ------------- |-----------|------| 
 | [The Materials Project](https://www.materialsproject.org)  | test | Kristin Persson, Gerbrand Ceder | [python](https://www.materialsproject.org/docs/api)  |
 | [Open Quantum Materials Database (OQMD)](http://oqmd.org)  | test | Chris Wolverton | [python (qmpy)](http://oqmd.org/static/docs/index.html)  |
