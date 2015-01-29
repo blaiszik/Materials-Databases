@@ -35,3 +35,4 @@ Other Databases to Catalog
 * MatNavi (Registration required) - http://mits.nims.go.jp/index_en.html
 * The Landolt-Börnstein Database (fee)
 * ProQuest Materials Science Collection (fee) http://www.springermaterials.com
+* Knovel (subscription required) http://app.knovel.com/web/
