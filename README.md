@@ -12,7 +12,7 @@
 | [Automatic Flow for Materials Discovery (AFLOW)](http://www.aflowlib.org) | A distributed materials properties repository from high-throughput ab initio calculations | Stefano Curtarolo     | [REST](http://aflowlib.duke.edu/aflowwiki/doku.php?id=documentation:start)  | 630000 compounds |
 
 #Relevant Codes
-| Code | Description | Contact | API/Docs | 
+| Code | Description | Maintained by | API/Docs | 
 | ------------- | ------------- |-----------|------| 
 | [MAterials Simulation Toolkit (MAST)](http://pythonhosted.org/MAST/index.html)  | MAST is an automated workflow manager and post-processing tool.MAST focuses on diffusion and defect workflows that use density functional theory. It interfaces primarily with the Vienna Ab-initio Simulation Package (VASP).| Dane Morgan | [docs](http://pythonhosted.org/MAST/index.html)  |
 | [NWChem](http://www.nwchem-sw.org/index.php/Main_Page)  | NWChem aims to provide its users with computational chemistry tools that are scalable both in their ability to treat large scientific computational chemistry problems efficiently, and in their use of available parallel computing resources from high-performance parallel supercomputers to conventional workstation clusters. | PNNL | [docs](http://www.nwchem-sw.org/index.php/Release65:NWChem_Documentation)  |
