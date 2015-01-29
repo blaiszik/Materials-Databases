@@ -16,7 +16,9 @@
 | ------------- | ------------- |-----------|------| 
 | [MAterials Simulation Toolkit (MAST)](http://pythonhosted.org/MAST/index.html)  | MAST is an automated workflow manager and post-processing tool.MAST focuses on diffusion and defect workflows that use density functional theory. It interfaces primarily with the Vienna Ab-initio Simulation Package (VASP).| Dane Morgan | [docs](http://pythonhosted.org/MAST/index.html)  |
 | [NWChem](http://www.nwchem-sw.org/index.php/Main_Page)  | NWChem aims to provide its users with computational chemistry tools that are scalable both in their ability to treat large scientific computational chemistry problems efficiently, and in their use of available parallel computing resources from high-performance parallel supercomputers to conventional workstation clusters. | PNNL | [docs](http://www.nwchem-sw.org/index.php/Release65:NWChem_Documentation)  |
-| [pymatgen 3.0.9](https://pypi.python.org/pypi/pymatgen)  | Pymatgen (Python Materials Genomics) is a robust, open-source Python library for materials analysis. It currently powers the public Materials Project (http://www.materialsproject.org), an initiative to make calculated properties of all known inorganic materials available to materials researchers. These are some of the main features: | Materials Genome Initiative | [docs](https://pypi.python.org/pypi/pymatgen)  |
+| [pymatgen 3.0.9](https://pypi.python.org/pypi/pymatgen)  | Pymatgen (Python Materials Genomics) is a robust, open-source Python library for materials analysis. It currently powers the public Materials Project, an initiative to make calculated properties of all known inorganic materials available to materials researchers. | Materials Genome Initiative | [docs](https://pypi.python.org/pypi/pymatgen)  |
+| [Swift](http://swift-lang.org/main/)  | Fast easy parallel scripting - on multicores, clusters, clouds and supercomputers. | University of Chicago / Argonne | [docs](http://swift-lang.org/docs/index.php)  |
+
 
 # Examples
 
