@@ -5,11 +5,11 @@
 
 # Materials-Related Databases
 
-| Database | Description | Contact | API/Docs | 
-| ------------- | ------------- |-----------|------| 
-| [The Materials Project](https://www.materialsproject.org)  | desc | Kristin Persson, Gerbrand Ceder | [python](https://www.materialsproject.org/docs/api)  |
-| [Open Quantum Materials Database (OQMD)](http://oqmd.org)  | desc | Chris Wolverton | [python (qmpy)](http://oqmd.org/static/docs/index.html)  |
-| [Automatic Flow for Materials Discovery (AFLOW)](http://www.aflowlib.org) | desc | Stafano Curtarolo     | [REST](http://aflowlib.duke.edu/aflowwiki/doku.php?id=documentation:start)  |
+| Database | Description | Contact | API/Docs | Size| 
+| ------------- | ------------- |-----------|------|------| 
+| [The Materials Project](https://www.materialsproject.org)  | Harnessing the power of supercomputing and state of the art electronic structure methods, the Materials Project provides open web-based access to computed information on known and predicted materials as well as powerful analysis tools to inspire and design novel materials. | Kristin Persson, Gerbrand Ceder | [python](https://www.materialsproject.org/docs/api)  | 58000 compounds, 33000 band structures|
+| [Open Quantum Materials Database (OQMD)](http://oqmd.org)  | The OQMD is a database DFT calculated thermodynamic and structural properties. We are providing this online interface for convenient, small scale access; however for more powerful utilization we recommend downloading the entire database and the API for interfacing with it, detailed in the link below. | Chris Wolverton | [python (qmpy)](http://oqmd.org/static/docs/index.html)  | 285780 compounds|
+| [Automatic Flow for Materials Discovery (AFLOW)](http://www.aflowlib.org) | A distributed materials properties repository from high-throughput ab initio calculations | Stefano Curtarolo     | [REST](http://aflowlib.duke.edu/aflowwiki/doku.php?id=documentation:start)  | 630000 compounds |
 
 #Relevant Codes
 | Code | Description | Contact | API/Docs | 
