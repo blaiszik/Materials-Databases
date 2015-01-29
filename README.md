@@ -14,7 +14,7 @@
 #Relevant Codes
 | Code | Description | Contact | API/Docs | 
 | ------------- | ------------- |-----------|------| 
-| [MAterials Simulation Toolkit (MAST)](http://pythonhosted.org/MAST/index.html)  | desc | Dane Morgan | [docs](http://pythonhosted.org/MAST/index.html)  |
+| [MAterials Simulation Toolkit (MAST)](http://pythonhosted.org/MAST/index.html)  | MAST is an automated workflow manager and post-processing tool.MAST focuses on diffusion and defect workflows that use density functional theory. It interfaces primarily with the Vienna Ab-initio Simulation Package (VASP).| Dane Morgan | [docs](http://pythonhosted.org/MAST/index.html)  |
 | [NWChem](http://www.nwchem-sw.org/index.php/Main_Page)  | desc | PNNL | [docs](http://www.nwchem-sw.org/index.php/Release65:NWChem_Documentation)  |
 | [pymatgen 3.0.9](https://pypi.python.org/pypi/pymatgen)  | desc | Materials Genome Initiative | [docs](https://pypi.python.org/pypi/pymatgen)  |
 
