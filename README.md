@@ -22,6 +22,10 @@
 | [pymatgen-db](https://github.com/materialsproject/pymatgen-db)  | Pymatgen (Python Materials Genomics) is a robust, open-source Python library for materials analysis. It currently powers the public Materials Project, an initiative to make calculated properties of all known inorganic materials available to materials researchers. | Materials Genome Initiative | [docs](https://github.com/materialsproject/pymatgen-db)  |
 | [Swift](http://swift-lang.org/main/)  | Fast easy parallel scripting - on multicores, clusters, clouds and supercomputers. | University of Chicago / Argonne | [docs](http://swift-lang.org/docs/index.php)  |
 
+#Cloud Services
+* Globus (https://www.globus.org)
+* Globus Data Publication (beta)
+* Globus Catalog (beta)
 
 # Examples
 
