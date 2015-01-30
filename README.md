@@ -54,10 +54,18 @@ These databases are sorted by the number of claimed data entries and by existenc
 * ScholarSphere - https://scholarsphere.psu.edu
 * ESTest - http://estest.ucdavis.edu
 * Quixote
-* The Materials Atlas
 * Computational Materials Repository (CMR) - https://wiki.fysik.dtu.dk/cmr/
-* Materials Data Facility
-* National Data Service
-* CHiMaD
+* Materials Data Facility (MDF)
+* National Data Service (NDS) - http://www.nationaldataservice.org
+* NDS-Labs
+* CHiMaD - http://chimad.northwestern.edu
 * DSpace http://www.dspace.org
+* Duracloud - http://duracloud.org
+* Fedora - http://duraspace.org/about_fedora
 * Quantum Materials Informatics Project (QMIP)
+* NIST Computational File Repository - http://nist.matdl.org/dspace/xmlui/handle/11115/52
+* Research Data Alliance - https://rd-alliance.org
+* European Data Infrastructure - http://www.eudat.eu
+* Scientific data repositories on the Web: An initial survey (article) - http://onlinelibrary.wiley.com/doi/10.1002/asi.21339/full
+* Dryad (bio) - http://www.datadryad.org
+* Registry of Research Databases - http://www.re3data.org
