@@ -27,16 +27,30 @@
 * Globus Data Publication (beta)
 * Globus Catalog (beta)
 
+
 # Examples
 
 # API Wrappers
 
 
 
-# Other Databases to Catalog
+# Other Databases, Codes,  and Efforts to Sort and Catalog
 * Pickard
 * NIST SRD
 * MatNavi (Registration required) - http://mits.nims.go.jp/index_en.html
 * The Landolt-Börnstein Database (fee)
 * ProQuest Materials Science Collection (fee) http://www.springermaterials.com
 * Knovel (subscription required) http://app.knovel.com/web/
+* Dataverse - http://dataverse.org
+* PRISMS - http://prisms.engin.umich.edu/#/prisms
+* SEAD - http://sead-data.net
+* FigShare - http://figshare.com
+* PURR - https://purr.purdue.edu
+* ScholarSphere - https://scholarsphere.psu.edu
+* ESTest - http://estest.ucdavis.edu
+* Quixote
+* The Materials Atlas
+* Computational Materials Repository (CMR) - https://wiki.fysik.dtu.dk/cmr/
+* Materials Data Facility
+* National Data Service
+* CHiMaD
