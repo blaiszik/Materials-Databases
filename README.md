@@ -4,7 +4,6 @@
 * This page is written using Github markdown, learn [Github Markdown Basics](https://help.github.com/articles/markdown-basics/).
 
 # Materials-Related Databases
-These databases are sorted by the number of claimed data entries and by existence of a method of programmatic access
 | Database | Description | Contact | API/Docs | Size| 
 | ------------- | ------------- |-----------|------|------| 
 | [Automatic Flow for Materials Discovery (AFLOW)](http://www.aflowlib.org) | A distributed materials properties repository from high-throughput ab initio calculations | Stefano Curtarolo     | [REST](http://aflowlib.duke.edu/aflowwiki/doku.php?id=documentation:start)  | 630000 compounds |
