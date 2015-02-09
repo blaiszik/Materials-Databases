@@ -30,10 +30,12 @@ These databases are sorted by the number of claimed data entries and by existenc
 
 
 #Cloud Services
+
 * Globus (https://www.globus.org)
 * Globus Data Publication (beta)
 * Globus Catalog (beta)
-
+* FigShare
+* Center for Open Science (http://centerforopenscience.org)
 
 # Examples
 
