@@ -30,10 +30,10 @@ These databases are sorted by the number of claimed data entries and by existenc
 * DiffPy - http://www.diffpy.org
 * Dream3D - http://www.immijournal.com/content/3/1/5
 * pyDOE (Design of Experiments) - http://pythonhosted.org/pyDOE/#capabilities
-* Scipy
-* Numpy
-* Pandas
-* Nexpy
+* Scipy - http://www.scipy.org
+* Numpy - http://www.numpy.org
+* Pandas - http://pandas.pydata.org
+* Nexpy - https://github.com/nexpy/nexpy
 
 #Cloud Services
 
