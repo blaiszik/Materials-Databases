@@ -27,6 +27,8 @@ These databases are sorted by the number of claimed data entries and by existenc
 | [pymatgen](https://pypi.python.org/pypi/pymatgen)  | Pymatgen-db is a database add-on for the Python Materials Genomics (pymatgen) materials analysis library. It enables the creation of Materials Project-style MongoDB databases for management of materials data. A query engine is also provided to enable the easy translation of MongoDB docs to useful pymatgen objects for analysis purposes. | Materials Genome Initiative | [docs](https://pypi.python.org/pypi/pymatgen)  |
 | [pymatgen-db](https://github.com/materialsproject/pymatgen-db)  | Pymatgen (Python Materials Genomics) is a robust, open-source Python library for materials analysis. It currently powers the public Materials Project, an initiative to make calculated properties of all known inorganic materials available to materials researchers. | Materials Genome Initiative | [docs](https://github.com/materialsproject/pymatgen-db)  |
 | [Swift](http://swift-lang.org/main/)  | Fast easy parallel scripting - on multicores, clusters, clouds and supercomputers. | University of Chicago / Argonne | [docs](http://swift-lang.org/docs/index.php)  |
+* DiffPy - http://www.diffpy.org
+* Dream3D - http://www.immijournal.com/content/3/1/5
 
 
 #Cloud Services
