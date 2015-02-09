@@ -82,3 +82,6 @@ CCDC (Cambridge Crystallographic Data Centre)-http://www.ccdc.cam.ac.uk/Solution
 * Dryad (bio) - http://www.datadryad.org
 * Registry of Research Databases - http://www.re3data.org
 * ChemSpider SyntheticPages - cssp.chemspider.com
+* MatData.net - http://www.matdata.net/index.js
+* MatWeb - http://www.matweb.com
+* Granta - http://www.grantadesign.com
