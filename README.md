@@ -81,3 +81,4 @@ CCDC (Cambridge Crystallographic Data Centre)-http://www.ccdc.cam.ac.uk/Solution
 * Scientific data repositories on the Web: An initial survey (article) - http://onlinelibrary.wiley.com/doi/10.1002/asi.21339/full
 * Dryad (bio) - http://www.datadryad.org
 * Registry of Research Databases - http://www.re3data.org
+* ChemSpider SyntheticPages - cssp.chemspider.com
