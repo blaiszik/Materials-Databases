@@ -38,6 +38,9 @@ These databases are sorted by the number of claimed data entries and by existenc
 * Globus Catalog (beta)
 * FigShare
 * Center for Open Science (http://centerforopenscience.org)
+* Dataverse - http://dataverse.org
+* SEAD - http://sead-data.net
+
 
 # Examples
 
@@ -52,9 +55,8 @@ These databases are sorted by the number of claimed data entries and by existenc
 * The Landolt-Börnstein Database (fee)
 * ProQuest Materials Science Collection (fee) http://www.springermaterials.com
 * Knovel (subscription required) http://app.knovel.com/web/
-* Dataverse - http://dataverse.org
+
 * PRISMS - http://prisms.engin.umich.edu/#/prisms
-* SEAD - http://sead-data.net
 * FigShare - http://figshare.com
 * PURR - https://purr.purdue.edu
 * ScholarSphere - https://scholarsphere.psu.edu
