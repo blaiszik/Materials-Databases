@@ -85,3 +85,4 @@ CCDC (Cambridge Crystallographic Data Centre)-http://www.ccdc.cam.ac.uk/Solution
 * MatData.net - http://www.matdata.net/index.js
 * MatWeb - http://www.matweb.com
 * Granta - http://www.grantadesign.com
+* NIST Materials Repositories (DSPACE) - https://materialsdata.nist.gov/dspace/xmlui/
