@@ -45,6 +45,7 @@ These databases are sorted by the number of claimed data entries and by existenc
 * Center for Open Science (http://centerforopenscience.org)
 * Dataverse - http://dataverse.org
 * SEAD - http://sead-data.net
+* Citrine Informatics - http://www.citrine.io
 
 
 # Examples
@@ -88,3 +89,9 @@ These databases are sorted by the number of claimed data entries and by existenc
 * Granta - http://www.grantadesign.com
 * NIST Materials Repositories (DSPACE) - https://materialsdata.nist.gov/dspace/xmlui/
 * NIST Materials Data Curation System - https://github.com/usnistgov/MDCS
+* NoMad
+* NanoHub
+* NIMS
+* SpringerMaterials
+* CatApp
+* Harvard Clean Energy Project
