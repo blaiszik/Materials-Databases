@@ -33,6 +33,7 @@ These databases are sorted by the number of claimed data entries and by existenc
 * Dream3D - http://www.immijournal.com/content/3/1/5
 * pyDOE (Design of Experiments) - http://pythonhosted.org/pyDOE/#capabilities
 * Nexpy - https://github.com/nexpy/nexpy
+* TomoPy - https://github.com/tomopy/tomopy
 
 ### Python Machine Learning Stack and Resources
 | Code | Description | Docs | 
