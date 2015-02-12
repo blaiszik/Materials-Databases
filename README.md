@@ -102,3 +102,9 @@ These databases are sorted by the number of claimed data entries and by existenc
 * CatApp
 * Harvard Clean Energy Project
 * Software Carpentry (basic)
+* Hubzero - https://hubzero.org
+* Digital Science - http://www.digital-science.com
+* Overleaf - http://www.digital-science.com/products/overleaf
+* Dimensions - http://www.digital-science.com/products/dimensions-for-universities
+* LabGuru - http://www.labguru.com
+* Accelrys (now Biovia?) - http://accelrys.com
