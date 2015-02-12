@@ -31,10 +31,17 @@ These databases are sorted by the number of claimed data entries and by existenc
 * DiffPy - http://www.diffpy.org
 * Dream3D - http://www.immijournal.com/content/3/1/5
 * pyDOE (Design of Experiments) - http://pythonhosted.org/pyDOE/#capabilities
-* Scipy - http://www.scipy.org
-* Numpy - http://www.numpy.org
-* Pandas - http://pandas.pydata.org
 * Nexpy - https://github.com/nexpy/nexpy
+
+### Python Machine Learning Stack and Resources
+| Code | Description | Maintained by | API/Docs | 
+| ------------- | ------------- |-----------|------| 
+|[scikit-learn](http://scikit-learn.org/stable/) | Machine learning in Python. Simple and efficient tools for data mining and data analysis. | | [docs](http://scikit-learn.org/stable/documentation.html)|
+|[SciPy](http://www.scipy.org) | Python-based ecosystem of open-source software for mathematics, science, and engineering. | |[docs](http://www.scipy.org/docs.html) |
+|[numpy](http://www.numpy.org) |NumPy is the fundamental package for scientific computing with Python. It contains among other things: a powerful N-dimensional array object; sophisticated (broadcasting) functions;tools for integrating C/C++ and Fortran code;useful linear algebra, Fourier transform, and random number capabilities | | [docs](http://docs.scipy.org/doc/)|
+|[pandas](http://pandas.pydata.org) |Python package providing fast, flexible, and expressive data structures designed to make working with “relational” or “labeled” data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world data analysis in Python.  | | [docs](http://pandas.pydata.org/pandas-docs/version/0.15.2/) |
+* [SciPy 2013 scikit-learn Complete Workshop Tutorial](https://www.youtube.com/watch?v=r4bRUvvlaBw)
+* [SciPy 2013 scikit-learn Complete Example Code](https://github.com/jakevdp/sklearn_scipy2013)
 
 #Cloud Services
 
