@@ -109,3 +109,5 @@ These databases are sorted by the number of claimed data entries and by existenc
 * Dimensions - http://www.digital-science.com/products/dimensions-for-universities
 * LabGuru - http://www.labguru.com
 * Accelrys (now Biovia?) - http://accelrys.com
+* Parallel.Works
+* Inscites (project lead is a contributor to this document)
