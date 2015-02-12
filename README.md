@@ -34,6 +34,8 @@ These databases are sorted by the number of claimed data entries and by existenc
 * pyDOE (Design of Experiments) - http://pythonhosted.org/pyDOE/#capabilities
 * Nexpy - https://github.com/nexpy/nexpy
 * TomoPy - https://github.com/tomopy/tomopy
+* IPython
+
 
 ### Python Machine Learning Stack and Resources
 | Code | Description | Docs | 
