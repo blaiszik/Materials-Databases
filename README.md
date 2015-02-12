@@ -48,11 +48,13 @@ These databases are sorted by the number of claimed data entries and by existenc
 * Globus (https://www.globus.org)
 * Globus Data Publication (beta)
 * Globus Catalog (beta)
-* FigShare
+* FigShare - http://figshare.com
 * Center for Open Science (http://centerforopenscience.org)
 * Dataverse - http://dataverse.org
 * SEAD - http://sead-data.net
 * Citrine Informatics - http://www.citrine.io
+* Dryad - http://www.datadryad.org
+* PRISMS - http://prisms.engin.umich.edu/#/prisms (in development)
 
 
 # Examples
@@ -68,9 +70,6 @@ These databases are sorted by the number of claimed data entries and by existenc
 * The Landolt-Börnstein Database (fee)
 * ProQuest Materials Science Collection (fee) http://www.springermaterials.com
 * Knovel (subscription required) http://app.knovel.com/web/
-
-* PRISMS - http://prisms.engin.umich.edu/#/prisms
-* FigShare - http://figshare.com
 * PURR - https://purr.purdue.edu
 * ScholarSphere - https://scholarsphere.psu.edu
 * ESTest - http://estest.ucdavis.edu
@@ -88,7 +87,6 @@ These databases are sorted by the number of claimed data entries and by existenc
 * Research Data Alliance - https://rd-alliance.org
 * European Data Infrastructure - http://www.eudat.eu
 * Scientific data repositories on the Web: An initial survey (article) - http://onlinelibrary.wiley.com/doi/10.1002/asi.21339/full
-* Dryad (bio) - http://www.datadryad.org
 * Registry of Research Databases - http://www.re3data.org
 * ChemSpider SyntheticPages - cssp.chemspider.com
 * MatData.net - http://www.matdata.net/index.js
