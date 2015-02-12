@@ -22,7 +22,7 @@ These databases are sorted by the number of claimed data entries and by existenc
 
 #Relevant Codes
 | Code | Description | Maintained by | API/Docs | 
-| ------------- | ------------- |-----------|------| 
+| ---- | ----------- |---------------|----------| 
 | [MAterials Simulation Toolkit (MAST)](http://pythonhosted.org/MAST/index.html)  | MAST is an automated workflow manager and post-processing tool.MAST focuses on diffusion and defect workflows that use density functional theory. It interfaces primarily with the Vienna Ab-initio Simulation Package (VASP).| Dane Morgan | [docs](http://pythonhosted.org/MAST/index.html)  |
 | [NWChem](http://www.nwchem-sw.org/index.php/Main_Page)  | NWChem aims to provide its users with computational chemistry tools that are scalable both in their ability to treat large scientific computational chemistry problems efficiently, and in their use of available parallel computing resources from high-performance parallel supercomputers to conventional workstation clusters. | PNNL | [docs](http://www.nwchem-sw.org/index.php/Release65:NWChem_Documentation)  |
 | [pymatgen](https://pypi.python.org/pypi/pymatgen)  | Pymatgen-db is a database add-on for the Python Materials Genomics (pymatgen) materials analysis library. It enables the creation of Materials Project-style MongoDB databases for management of materials data. A query engine is also provided to enable the easy translation of MongoDB docs to useful pymatgen objects for analysis purposes. | Materials Genome Initiative | [docs](https://pypi.python.org/pypi/pymatgen)  |
@@ -34,12 +34,12 @@ These databases are sorted by the number of claimed data entries and by existenc
 * Nexpy - https://github.com/nexpy/nexpy
 
 ### Python Machine Learning Stack and Resources
-| Code | Description | Maintained by | API/Docs | 
-| ------------- | ------------- |-----------|------| 
-|[scikit-learn](http://scikit-learn.org/stable/) | Machine learning in Python. Simple and efficient tools for data mining and data analysis. | | [docs](http://scikit-learn.org/stable/documentation.html)|
-|[SciPy](http://www.scipy.org) | Python-based ecosystem of open-source software for mathematics, science, and engineering. | |[docs](http://www.scipy.org/docs.html) |
-|[numpy](http://www.numpy.org) |NumPy is the fundamental package for scientific computing with Python. It contains among other things: a powerful N-dimensional array object; sophisticated (broadcasting) functions;tools for integrating C/C++ and Fortran code;useful linear algebra, Fourier transform, and random number capabilities | | [docs](http://docs.scipy.org/doc/)|
-|[pandas](http://pandas.pydata.org) |Python package providing fast, flexible, and expressive data structures designed to make working with “relational” or “labeled” data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world data analysis in Python.  | | [docs](http://pandas.pydata.org/pandas-docs/version/0.15.2/) |
+| Code | Description | Docs | 
+| ---- | ----------- | ---- | 
+|[scikit-learn](http://scikit-learn.org/stable/) | Machine learning in Python. Simple and efficient tools for data mining and data analysis. | [docs](http://scikit-learn.org/stable/documentation.html)|
+|[SciPy](http://www.scipy.org) | Python-based ecosystem of open-source software for mathematics, science, and engineering. |[docs](http://www.scipy.org/docs.html) |
+|[numpy](http://www.numpy.org) |NumPy is the fundamental package for scientific computing with Python. It contains among other things: a powerful N-dimensional array object; sophisticated (broadcasting) functions;tools for integrating C/C++ and Fortran code;useful linear algebra, Fourier transform, and random number capabilities | [docs](http://docs.scipy.org/doc/)|
+|[pandas](http://pandas.pydata.org) |Python package providing fast, flexible, and expressive data structures designed to make working with “relational” or “labeled” data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world data analysis in Python.  | [docs](http://pandas.pydata.org/pandas-docs/version/0.15.2/) |
 * [SciPy 2013 scikit-learn Complete Workshop Tutorial](https://www.youtube.com/watch?v=r4bRUvvlaBw)
 * [SciPy 2013 scikit-learn Complete Example Code](https://github.com/jakevdp/sklearn_scipy2013)
 
