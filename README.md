@@ -70,20 +70,16 @@ These databases are sorted by the number of claimed data entries and by existenc
 
 
 # Other Databases, Codes,  and Efforts to Sort and Catalog
-* Pickard
-* NIST SRD
+* NIST SRD - http://www.nist.gov/srd/
 * MatNavi (Registration required) - http://mits.nims.go.jp/index_en.html
-* The Landolt-Börnstein Database (fee)
 * ProQuest Materials Science Collection (fee) http://www.springermaterials.com
 * Knovel (subscription required) http://app.knovel.com/web/
 * PURR - https://purr.purdue.edu
 * ScholarSphere - https://scholarsphere.psu.edu
 * ESTest - http://estest.ucdavis.edu
-* Quixote
 * Computational Materials Repository (CMR) - https://wiki.fysik.dtu.dk/cmr/
 * Materials Data Facility (MDF)
 * National Data Service (NDS) - http://www.nationaldataservice.org
-* NDS-Labs
 * CHiMaD - http://chimad.northwestern.edu
 * DSpace http://www.dspace.org
 * Duracloud - http://duracloud.org
@@ -100,20 +96,24 @@ These databases are sorted by the number of claimed data entries and by existenc
 * Granta - http://www.grantadesign.com
 * NIST Materials Repositories (DSPACE) - https://materialsdata.nist.gov/dspace/xmlui/
 * NIST Materials Data Curation System - https://github.com/usnistgov/MDCS
-* NoMad
-* NanoHub
-* NIMS
-* SpringerMaterials
-* CatApp
-* Harvard Clean Energy Project
-* Software Carpentry (basic)
+* NoMad - http://nomad-repository.eu/cms/
+* NanoHub - https://nanohub.org/
+* NIMS - http://www.nims.go.jp/eng/
+* SpringerMaterials - Landolt-Börnstein Database (fee) - http://www.springermaterials.com/docs/index.html
+* CatApp - http://slac.stanford.edu/~strabo/catapp/CatApp.html
+* Harvard Clean Energy Project - http://cleanenergy.molecularspace.org/
+* Software Carpentry (basic) - http://software-carpentry.org/
 * Hubzero - https://hubzero.org
 * Digital Science - http://www.digital-science.com
 * Overleaf - http://www.digital-science.com/products/overleaf
 * Dimensions - http://www.digital-science.com/products/dimensions-for-universities
 * LabGuru - http://www.labguru.com
 * Accelrys (now Biovia?) - http://accelrys.com
-* Parallel.Works
+* Parallel.Works - http://parallel.works/
 * Inscites (project lead is a contributor to this document)
+* NDS-Labs (in development) - http://labsportal.nationaldataservice.org/
 * Mendeley - http://www.mendeley.com
 * Authorea - https://www.authorea.com/
+* Pickard - can't find...
+* Quixote - can't find...
+
