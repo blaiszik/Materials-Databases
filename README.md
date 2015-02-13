@@ -59,6 +59,8 @@ These databases are sorted by the number of claimed data entries and by existenc
 * Citrine Informatics - http://www.citrine.io
 * Dryad - http://www.datadryad.org
 * PRISMS - http://prisms.engin.umich.edu/#/prisms (in development)
+* Zenodo - https://zenodo.org/ 
+
 
 
 # Examples
@@ -113,3 +115,5 @@ These databases are sorted by the number of claimed data entries and by existenc
 * Accelrys (now Biovia?) - http://accelrys.com
 * Parallel.Works
 * Inscites (project lead is a contributor to this document)
+* Mendeley - http://www.mendeley.com
+* Authorea - https://www.authorea.com/
