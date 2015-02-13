@@ -20,6 +20,22 @@ These databases are sorted by the number of claimed data entries and by existenc
 | [ThermoML](http://trc.nist.gov/ThermoML.html) | This page contains links to ThermoML files, which represent experimental thermophysical and thermochemical property data reported in the corresponding articles published by major journals in the field. These files are posted here through cooperation between the Thermodynamics Research Center (TRC) at the National Institute of Standards and Technology (NIST) and the journal publishers. |   |   |  |
 * Computational Materials Data Network (CMD Network) - http://www.asminternational.org/web/cmdnetwork
 
+#Cloud Services
+
+* Globus (https://www.globus.org)
+* Globus Data Publication (beta)
+* Globus Catalog (beta)
+* FigShare - http://figshare.com
+* Center for Open Science (http://centerforopenscience.org)
+* Dataverse - http://dataverse.org
+* SEAD - http://sead-data.net
+* Citrine Informatics - http://www.citrine.io
+* Dryad - http://www.datadryad.org
+* PRISMS - http://prisms.engin.umich.edu/#/prisms (in development)
+* Zenodo - https://zenodo.org/ 
+
+
+
 #Relevant Codes
 | Code | Description | Maintained by | API/Docs | 
 | ---- | ----------- |---------------|----------| 
@@ -46,24 +62,6 @@ These databases are sorted by the number of claimed data entries and by existenc
 |[pandas](http://pandas.pydata.org) |Python package providing fast, flexible, and expressive data structures designed to make working with “relational” or “labeled” data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world data analysis in Python.  | [docs](http://pandas.pydata.org/pandas-docs/version/0.15.2/) |
 * [SciPy 2013 scikit-learn Complete Workshop Tutorial](https://www.youtube.com/watch?v=r4bRUvvlaBw)
 * [SciPy 2013 scikit-learn Complete Example Code](https://github.com/jakevdp/sklearn_scipy2013)
-
-#Cloud Services
-
-* Globus (https://www.globus.org)
-* Globus Data Publication (beta)
-* Globus Catalog (beta)
-* FigShare - http://figshare.com
-* Center for Open Science (http://centerforopenscience.org)
-* Dataverse - http://dataverse.org
-* SEAD - http://sead-data.net
-* Citrine Informatics - http://www.citrine.io
-* Dryad - http://www.datadryad.org
-* PRISMS - http://prisms.engin.umich.edu/#/prisms (in development)
-* Zenodo - https://zenodo.org/ 
-
-
-
-# Examples
 
 # API Wrappers
 
