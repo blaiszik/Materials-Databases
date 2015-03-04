@@ -117,5 +117,6 @@ These databases are sorted by the number of claimed data entries and by existenc
 * Datacite - https://www.datacite.org/
 * Dat Data - http://dat-data.com/
 * NIDDK Information Network - http://www.dknet.org/
+* DataOne - https://www.dataone.org
 * Pickard - can't find...
 * Quixote - can't find...
