@@ -32,7 +32,8 @@ These databases are sorted by the number of claimed data entries and by existenc
 * Citrine Informatics - http://www.citrine.io
 * Dryad - http://www.datadryad.org
 * PRISMS - http://prisms.engin.umich.edu/#/prisms (in development)
-* Zenodo - https://zenodo.org/ 
+* Zenodo - https://zenodo.org/
+* SeedMe - https://www.seedme.org
 
 
 
