@@ -34,6 +34,8 @@ These databases are sorted by the number of claimed data entries and by existenc
 * PRISMS - http://prisms.engin.umich.edu/#/prisms (in development)
 * Zenodo - https://zenodo.org/
 * SeedMe - https://www.seedme.org
+* DOE Pages - http://www.osti.gov/pages/
+* NSF public access repository - TBD
 
 
 
