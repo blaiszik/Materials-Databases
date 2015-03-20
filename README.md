@@ -83,7 +83,7 @@ These databases are sorted by the number of claimed data entries and by existenc
 * ScholarSphere - https://scholarsphere.psu.edu
 * ESTest - http://estest.ucdavis.edu
 * Computational Materials Repository (CMR) - https://wiki.fysik.dtu.dk/cmr/
-* Materials Data Facility (MDF)
+* Materials Data Facility (MDF) - http://mdf.ncsa.illinois.edu
 * National Data Service (NDS) - http://www.nationaldataservice.org
 * CHiMaD - http://chimad.northwestern.edu
 * DSpace http://www.dspace.org
