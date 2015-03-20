@@ -68,6 +68,7 @@ These databases are sorted by the number of claimed data entries and by existenc
 |[pandas](http://pandas.pydata.org) |Python package providing fast, flexible, and expressive data structures designed to make working with “relational” or “labeled” data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world data analysis in Python.  | [docs](http://pandas.pydata.org/pandas-docs/version/0.15.2/) |
 * [SciPy 2013 scikit-learn Complete Workshop Tutorial](https://www.youtube.com/watch?v=r4bRUvvlaBw)
 * [SciPy 2013 scikit-learn Complete Example Code](https://github.com/jakevdp/sklearn_scipy2013)
+* [Tutorials on network analysis, Discovery Engines Workshop at Computation Institute, Mar 18 2015] (https://github.com/KnowledgeLab/CI-Workshop-Networks)
 
 # API Wrappers
 
