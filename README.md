@@ -49,6 +49,9 @@ These databases are sorted by the number of claimed data entries and by existenc
 | [Swift](http://swift-lang.org/main/)  | Fast easy parallel scripting - on multicores, clusters, clouds and supercomputers. | University of Chicago / Argonne | [docs](http://swift-lang.org/docs/index.php)  |
 * DiffPy - http://www.diffpy.org
 * DANSE - http://danse.us/ReleasePages.html
+* QBOX - http://eslab.ucdavis.edu/software/qbox/
+* Quantum Espresso - http://www.quantum-espresso.org
+* VASP - http://www.vasp.at
 * Dream3D - http://www.immijournal.com/content/3/1/5
 * pyDOE (Design of Experiments) - http://pythonhosted.org/pyDOE/#capabilities
 * Nexpy - https://github.com/nexpy/nexpy
