@@ -128,3 +128,8 @@ These databases are sorted by the number of claimed data entries and by existenc
 * DataOne - https://www.dataone.org
 * Pickard - can't find...
 * Quixote - can't find...
+* Islandora
+* EuDat
+* Archivematica
+* Jetstream
+* iRODS - http://irods.org
