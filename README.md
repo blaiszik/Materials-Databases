@@ -36,6 +36,7 @@ These databases are sorted by the number of claimed data entries and by existenc
 * SeedMe - https://www.seedme.org
 * DOE Pages - http://www.osti.gov/pages/
 * NSF public access repository - TBD
+* Socrata - http://www.socrata.com/products/open-data-portal/
 
 
 
