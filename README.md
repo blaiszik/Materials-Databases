@@ -129,9 +129,10 @@ These databases are sorted by the number of claimed data entries and by existenc
 * DataOne - https://www.dataone.org
 * Pickard - can't find...
 * Quixote - can't find...
-* Islandora
-* EuDat
-* Archivematica
-* Jetstream
+* Islandora - http://islandora.ca
+* EuDat - http://www.eudat.eu
+* Archivematica - https://ww.archivematica.org/en/
+* Jetstream - http://pti.iu.edu/jetstream/
 * iRODS - http://irods.org
 * Zenodo - http://zenodo.org
+* Invenio - http://invenio-software.org
