@@ -138,3 +138,4 @@ These databases are sorted by the number of claimed data entries and by existenc
 * Invenio - http://invenio-software.org
 * Data Type Registry - http://typeregistry.org/registrar/
 * Schemas - http://schema.org
+* Ontologies - http://www.ebi.ac.uk/ontology-lookup/
