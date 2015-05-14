@@ -58,6 +58,7 @@ These databases are sorted by the number of claimed data entries and by existenc
 * Nexpy - https://github.com/nexpy/nexpy
 * TomoPy - https://github.com/tomopy/tomopy
 * IPython
+* pycalphad - https://github.com/richardotis/pycalphad
 
 
 ### Python Machine Learning Stack and Resources
