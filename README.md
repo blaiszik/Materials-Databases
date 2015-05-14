@@ -137,3 +137,4 @@ These databases are sorted by the number of claimed data entries and by existenc
 * Zenodo - http://zenodo.org
 * Invenio - http://invenio-software.org
 * Data Type Registry - http://typeregistry.org/registrar/
+* Schemas - http://schema.org
