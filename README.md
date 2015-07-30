@@ -18,6 +18,10 @@ These databases are sorted by the number of claimed data entries and by existenc
 | [Interatomic Potentials Repository Project](http://www.ctcms.nist.gov/potentials/) | This repository provides a source for interatomic potentials (force fields), related files, and evaluation tools to help researchers obtain interatomic models and judge their quality and applicability. | Chandler Becker (NIST), Zachary Trautt (NIST)  |   |  |
 | [Web Force-Field (WebFF)](http://www.nist.gov/mml/msed/polymers/webff.cfm) | The Web Force-Field (WebFF) repository consists of three main components: 1) a database, 2) a software engine, and 3) a web-client interface. The repository database supports a multi-table format, where each table is a distinct force field. | Frederick Phelan (NIST)  |   |  |
 | [ThermoML](http://trc.nist.gov/ThermoML.html) | This page contains links to ThermoML files, which represent experimental thermophysical and thermochemical property data reported in the corresponding articles published by major journals in the field. These files are posted here through cooperation between the Thermodynamics Research Center (TRC) at the National Institute of Standards and Technology (NIST) and the journal publishers. |   |   |  |
+| [GBRV Pseudopotential Library](http://www.physics.rutgers.edu/gbrv/) | This site hosts the GBRV pseudopotential library, a highly accurate and computationally inexpensive open-source pseudopotential library which has been designed and optimized for use in high-throughput DFT calculations and released under the gnu public license.  We provide potential files for direct use with the Quantum Espresso, Abinit, and JDFTx plane-wave pseudopotential codes, as well as input files for the Vanderbilt Ultrasoft pseudopotential generator.|   |   |  |
+
+
+http://www.physics.rutgers.edu/gbrv/
 * Computational Materials Data Network (CMD Network) - http://www.asminternational.org/web/cmdnetwork
 
 #Cloud Services
