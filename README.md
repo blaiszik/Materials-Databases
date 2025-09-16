@@ -1,3 +1,5 @@
+### This repository is essentially archived at this point and is no longer maintained. If you are interested in a maintained list of materials and chemistry datasets for machine learning applications, you can refer to the new [Awesome Materials & Chemistry Datasets](https://github.com/blaiszik/awesome-matchem-datasets) that is being maintained.
+
 # Notes
 * Please feel free to edit these tables, change headings as necessary, group databases and codes into relevant sub-groups, and add information dynamically. 
 * For now,  hold off on linking to this page externally, as I will be moving it to be within the Globus github if we see usefulness emerging. 
